@@ -1,3 +1,8 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# melinda-record-match-validator
+Validates if 2 records matched by melinda-record-matching can be merged and sets merge priority.
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+## License and copyright
+
+Copyright (c) 2022-2024 **University Of Helsinki (The National Library Of Finland)**
+
+This project's source code is licensed under the terms of **MIT** or any later version.
